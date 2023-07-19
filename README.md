@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub Profile!
 
-<!--
-**bemifolayan/bemifolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* My name is Bemi, and I am a rising junior at Washington University in St.Louis, with a major in Computer Science and a minor in Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some more things about me:
+
+- 🔭 I’m currently working on a website that helps users take care of the their plants depending on the species/location.
+- 🌱 I’m currently learning front-end development skills.
+- 👯 I’m looking to collaborate on projects that involve data mining or API integration.
+- 🤔 I’m looking for help with finding/landing internship oppurtunities for Summer 2024.
+- 💬 Ask me about anything Nigeria-related.
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I have over 50 cousins.
