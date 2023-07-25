@@ -5,7 +5,7 @@
 
 Here are some more things about me:
 
-- 🔭 I’m currently working on a website that helps users take care of the their plants depending on the species/location.
+- 🔭 I’m currently working on a website that helps users take care of the their plants depending on the species/location: https://github.com/eileenpaula/PlantParenthood.git
 - 🌱 I’m currently learning front-end development skills.
 - 👯 I’m looking to collaborate on projects that involve data mining or API integration.
 - 🤔 I’m looking for help with finding/landing internship oppurtunities for Summer 2024.
