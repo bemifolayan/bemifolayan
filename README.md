@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub Profile!
 
 
-* My name is Bemi, and I am a rising junior at Washington University in St.Louis, with a major in Computer Science and a minor in Mathematics.
+* My name is Bemi, and I am a junior at Washington University in St.Louis, with a major in Computer Science and a minor in Mathematics.
 
 Here are some more things about me:
 
